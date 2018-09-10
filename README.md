@@ -31,7 +31,7 @@ According to the visualization, high **scholastic performance** was seen in **_E
 
 ![alt text](https://github.com/Shilin0806/Create_a_Tableau_Story_Project_PISA_Data/blob/master/PISA.jpg)
 
-Image is adapted from a copyright-free website: https://www.pexels.com/royalty-free-images/.
+(Image is adapted from a copyright-free website: https://www.pexels.com/royalty-free-images/.)
 
 
 <a id='design'></a>
